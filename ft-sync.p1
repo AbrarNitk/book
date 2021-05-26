@@ -1,0 +1,15 @@
+-- ft-sync:
+mode: local-to-remote
+backend: mdbook
+root: first-edition1
+repo: amitu/fifthtry
+collection: testuser/index1
+
+-- index-extra:
+
+\-- meta:
+git-repo: amitu/fifthtry
+lang: en
+
+\--- reader:
+who: everyone
