@@ -21,7 +21,7 @@ error, which means the compiler needs more information from us to know which
 type we want to use:
 
 ```console
-{{#include listings/ch03-common-programming-concepts/output-only-01-no-type-annotations/output.txt}}
+{{#include ../listings/ch03-common-programming-concepts/output-only-01-no-type-annotations/output.txt}}
 ```
 
 You’ll see different type annotations for other data types.
@@ -135,7 +135,7 @@ Here’s an example that shows floating-point numbers in action:
 <span class="filename">Filename: src/main.rs</span>
 
 ```rust
-{{#rustdoc_include ./listings/ch03-common-programming-concepts/no-listing-06-floating-point/src/main.rs}}
+{{#rustdoc_include ../listings/ch03-common-programming-concepts/no-listing-06-floating-point/src/main.rs}}
 ```
 
 Floating-point numbers are represented according to the IEEE-754 standard. The

@@ -1,14 +1,13 @@
 -- ft-sync:
 mode: local-to-remote
 backend: mdbook
-root: first-edition1
-repo: amitu/fifthtry
-collection: testuser/index1
+repo: https://github.com/AbrarNitk/book
+collection: testuser/index
 
 -- index-extra:
 
 \-- meta:
-git-repo: amitu/fifthtry
+git-repo: https://github.com/AbrarNitk/book
 lang: en
 
 \--- reader:
