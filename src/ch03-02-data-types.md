@@ -160,7 +160,9 @@ list of all operators that Rust provides.
 #### The Boolean Type
 
 As in most other programming languages, a Boolean type in Rust has two possible
+
 values: `true` and `false`. Booleans are one byte in size. The Boolean type in
+
 Rust is specified using `bool`. For example:
 
 <span class="filename">Filename: src/main.rs</span>
