@@ -12,3 +12,16 @@ lang: en
 
 \--- reader:
 who: everyone
+
+\--- admin:
+username: amitu
+
+\--- admin:
+username: wilderbit
+
+\--- admin:
+username: mxfunc
+
+
+\--- writer:
+username: sourabh
