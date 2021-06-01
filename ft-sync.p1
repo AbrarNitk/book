@@ -2,7 +2,7 @@
 mode: local-to-remote
 backend: mdbook
 repo: https://github.com/AbrarNitk/book
-collection: testuser/index
+collection: wilderbit/rust-book
 
 -- index-extra:
 
